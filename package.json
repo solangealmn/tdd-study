@@ -1,0 +1,23 @@
+{
+  "name": "tdd-syudy",
+  "version": "1.0.0",
+  "description": "Estudos sobre TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solangealmn/tdd-study.git"
+  },
+  "keywords": [
+    "js",
+    "tdd"
+  ],
+  "author": "Solange Nalao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/solangealmn/tdd-study/issues"
+  },
+  "homepage": "https://github.com/solangealmn/tdd-study#readme"
+}
